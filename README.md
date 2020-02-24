@@ -13,7 +13,7 @@ python -m venv .\venv
 
 macOS & Linux
 ```
-python -m venv ./venv
+python3 -m venv ./venv
 ```
 
 Once that completes, also run this command from the same folder.
